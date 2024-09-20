@@ -1,0 +1,46 @@
+Overview:
+1. Exploratory data analysis
+2. Why is exploratory data analysis important in data science
+3. Types of EDA
+4. Exploratory data analysis (EDA) using Python Libraries
+5. Exploratory data analysis (EDA) using Pandas Profiling
+
+1. EDA: Exploratory data analysis (EDA) is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other visualization methods.
+
+Data Set: E-commerce shipping data set (The company sells electronic products.)
+
+Context
+An international e-commerce company based wants to discover key insights from their customer database. They want to use some of the most advanced machine learning techniques to study their customers. The company sells electronic products.
+
+Content
+The dataset used for model building contained 10999 observations of 12 variables.
+
+Here I used EDA For my project and this is my unguided project. 
+
+
+🚀 E-commerce Sales Analysis! 🛒📊
+
+I recently completed an E-commerce sales analysis project where I used datasets from Kaggle and took a unique approach by leveraging ChatGPT to generate real-time problem statements to solve throughout the analysis process. 🧑‍💻
+
+Here's a quick overview of the project:
+
+🔍 What I Did:
+
+Used Python libraries like Pandas, Matplotlib, and Seaborn to perform data manipulation and visualization.
+Conducted a thorough Exploratory Data Analysis (EDA) to uncover key insights about sales performance, customer behavior, and product trends.
+💡 How I approached it:
+
+Tackled real-world business problems by creating hypotheses and using EDA techniques to validate them.
+Analyzed customer segments, payment methods, sales trends by city/branch, and product performance.
+👨‍💻 Tech Stack:
+
+Python 🐍
+Pandas & NumPy for data manipulation
+Matplotlib & Seaborn for visualizations
+ChatGPT for generating practical business questions
+Results?
+
+Gained actionable insights into sales patterns, customer preferences, and more, allowing for smarter business decisions in the E-commerce space.
+Special thanks to Kaggle for the datasets and ChatGPT for making the analysis dynamic and insightful.
+
+#DataScience #Python #EDA #Kaggle #Ecommerce #DataAnalysis #MachineLearning #AI #ProblemSolving
